@@ -11,6 +11,7 @@ if($_SESSION['logged_in'] != true){
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="library management system.">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="main.js"></script>
