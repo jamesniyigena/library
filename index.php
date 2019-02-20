@@ -9,7 +9,7 @@ if($_SESSION['logged_in'] != true){
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
+    <title>library mis</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="library management system.">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
